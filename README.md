@@ -1,0 +1,1 @@
+I download a lot of SRT files for movies so this script clears all that junk from my desktop.
